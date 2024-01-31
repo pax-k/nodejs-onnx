@@ -1,0 +1,17 @@
+{
+  "name": "embedding-local-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@xenova/transformers": "^2.14.1",
+    "dotenv": "^16.4.1",
+    "onnxruntime-common": "^1.16.3",
+    "onnxruntime-node": "^1.16.3",
+    "openai": "^4.25.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "yarn@4.1.0"
+}
